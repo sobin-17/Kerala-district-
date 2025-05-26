@@ -1,0 +1,65 @@
+/* Contact Section */
+.contact-section {
+    background-color: #f5f5f5;
+    padding: 2.5rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .contact-section h2 {
+    color: #4B0082;
+    font-weight: 700;
+  }
+  
+  .contact-section h4 {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .contact-section p {
+    font-size: 1rem;
+    color: #444;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contact-section a {
+    color: #4B0082;
+    text-decoration: none;
+  }
+  
+  .contact-section a:hover {
+    text-decoration: underline;
+  }
+  
+  .contact-section .form-label {
+    font-weight: 500;
+    color: #333;
+  }
+  
+  .contact-section .form-control {
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    transition: border-color 0.3s;
+  }
+  
+  .contact-section .form-control:focus {
+    border-color: #4B0082;
+    box-shadow: 0 0 0 0.2rem rgba(75, 0, 130, 0.2);
+  }
+  
+  .contact-section .btn-primary {
+    background-color: #4B0082;
+    border-color: #4B0082;
+    border-radius: 8px;
+    padding: 0.5rem 1.25rem;
+    font-weight: 600;
+  }
+  
+  .contact-section .btn-primary:hover {
+    background-color: #3a006b;
+    border-color: #3a006b;
+  }
+  

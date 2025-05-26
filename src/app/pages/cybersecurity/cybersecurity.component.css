@@ -1,0 +1,43 @@
+.cybersecurity {
+    background-color: #161623;
+    color: #e0e0f5;
+    padding: 40px 30px;
+    margin: 40px auto;
+    max-width: 900px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .cybersecurity h3 {
+    font-size: 2rem;
+    color: #b389f0; /* Violet highlight */
+    margin-bottom: 16px;
+    text-align: center;
+  }
+  
+  .cybersecurity h4 {
+    font-size: 1.4rem;
+    color: #8be9fd;
+    margin-top: 25px;
+    margin-bottom: 15px;
+  }
+  
+  .cybersecurity p {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: #dcdcf2;
+    margin-bottom: 20px;
+  }
+  
+  .cybersecurity ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #c9c9e9;
+  }
+  
+  .cybersecurity li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+  }
+  
